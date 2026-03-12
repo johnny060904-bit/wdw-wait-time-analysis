@@ -10,27 +10,27 @@ An analysis of **1.75 million+ historical wait time records** across 8 major att
 ### Holiday Impact
 Holiday periods significantly increase wait times across all parks. Christmas and New Year's week drives the largest spike at **+43%** above regular periods, followed by Thanksgiving (+25%), Spring Break (+22%), and Summer Peak (+12%).
 
-![Holiday Impact](charts/03_holiday_impact.png)
+![Holiday Impact](03_holiday_impact.png)
 
 ### Best & Worst Days to Visit
 **Wednesday** is the best day to visit with an average 56-minute wait, while **Saturday** is the worst at 62 minutes. Midweek days (Tuesday–Thursday) consistently outperform weekends.
 
-![Day of Week](charts/02_day_of_week.png)
+![Day of Week](02_day_of_week.png)
 
 ### Hourly Patterns — When to Ride
 Peak congestion hits at **11:00 AM** across all parks. Wait times drop significantly after 7:00 PM. At Hollywood Studios, Slinky Dog Dash maintains 80+ minute waits from 9 AM to 3 PM, while Alien Swirling Saucers stays under 40 minutes even at peak.
 
-![Hollywood Studios Hourly](charts/06_hollywood_studios_hourly.png)
+![Hollywood Studios Hourly](06_hollywood_studios_hourly.png)
 
 ### Ride Popularity Rankings
 Flight of Passage leads all rides with a 115-minute average wait — nearly double the next closest ride (Seven Dwarfs Mine Train at 77 min). Hollywood Studios rides cluster between 30–73 minutes.
 
-![Average Wait by Ride](charts/01_avg_wait_by_ride.png)
+![Average Wait by Ride](01_avg_wait_by_ride.png)
 
 ### Seasonal & Year-over-Year Trends
 Winter is the busiest season (65 min avg) driven by holiday crowds, while Fall is the quietest (51 min avg). The monthly heatmap reveals year-over-year crowd growth from 2015–2019, a COVID-driven drop in 2020, and a recovery pattern in 2021.
 
-![Monthly Heatmap](charts/07_monthly_heatmap.png)
+![Monthly Heatmap](07_monthly_heatmap.png)
 
 ## Dataset
 
