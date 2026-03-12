@@ -3,7 +3,7 @@
 An analysis of **1.75 million+ historical wait time records** across 8 major attractions at 4 Walt Disney World parks (2015–2021), identifying patterns in crowd behavior, peak demand periods, and ride popularity trends.
 
 ## Live Dashboard
-[View the interactive dashboard →](https://wdw-wait-time-analysis.vercel.app)
+[View the interactive dashboard →](https://wdw-dashboard.vercel.app)
 
 ## Key Findings
 
